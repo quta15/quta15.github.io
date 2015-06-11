@@ -39,18 +39,16 @@
    <!--start menu-->
 
 	<nav>
-    <ul>
-    <li><a href="#" class="current">Home</a>
+   <header class="group_bannner_left">
+   <hgroup>
+   <h1>QUTA 15 </h1>
+   <h2>“Quaid-e-Awam University Teachers Association 2015.“ 
+   </h2>
+   </hgroup>
+   </header>
 
-	</li>
-    <li><a href="#">About us</a></li>
-	<li><a href="#">Services</a></li>
-	<li><a href="#">Portfolio</a></li>
-    <li><a href="#">News</a></li>
-    <li><a href="contact.html">Contact</a></li>
-
-    </ul>
     </nav>
+
 	<!--end menu-->
 	
 

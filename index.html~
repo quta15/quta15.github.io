@@ -47,7 +47,7 @@
 	<li><a href="#">Services</a></li>
 	<li><a href="#">Portfolio</a></li>
     <li><a href="#">News</a></li>
-    <li><a href="#">Contact</a></li>
+    <li><a href="tabs/contact.html">Contact</a></li>
 
     </ul>
     </nav>
@@ -68,7 +68,7 @@
    
    <header class="group_bannner_left">
    <hgroup>
-   <h1>QUTA 15. </h1>
+   <h1>QUTA 15 </h1>
    <h2>“Quaid-e-Awam University Teachers Association 2015.“ 
    </h2>
    </hgroup>
@@ -93,7 +93,7 @@
      
    <section class="group2">
    <h3>Services</h3>
-   	<p>QUTA elected members tries theier best to ensure the dignity, respect and rights of teachers of QUEST, Nawabshah. </p>
+   	<p>QUTA elected members try their best to ensure the dignity, respect and rights of teachers of QUEST, Nawabshah. </p>
 	<a href=""><span class="read_more">Read more ...</span></a>
 
 	</section>
