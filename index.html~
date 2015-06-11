@@ -1,7 +1,7 @@
 <!doctype html>  
 <head>
 <meta charset="UTF-8">
-<title>Think simple - Home</title>
+<title>QUTA 15- Home Page</title>
 <link rel="icon" href="images/favicon.gif" type="image/x-icon"/>
  <!--[if lt IE 9]>
  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -154,8 +154,9 @@
    <!--start footer-->
    <footer>
    <div class="container">  
-   <div id="FooterTwo"> © 2011 Think simple </div>
-   <div id="FooterTree"> Valid html5, design and code by <a href="http://www.marijazaric.com">marija zaric - creative simplicity</a>   </div> 
+   <div id="FooterTwo"> © QUTA 2015 </div>
+<div id="FooterTree"> Valid html5, design and code by <a href="http://ahsheikh.quest.edu.pk">Dr. A H Sheikh </a>   </div> 
+   <!-- <div id="FooterTree"> Valid html5, design and code by <a href="http://www.marijazaric.com">marija zaric - creative simplicity</a>   </div> -->
    </div>
    </footer>
    <!--end footer-->
